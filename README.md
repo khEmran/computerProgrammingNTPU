@@ -1,5 +1,6 @@
 # computerProgrammingNTPU
 #EmranKhan
+hello
 
 
 This repository contains the programming assignments, labs, and projects for the **Computer Programming** course at National Taipei University (NTPU). The course focuses on building foundational programming skills and applying them to complex data-driven logic and predictive modeling.
